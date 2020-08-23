@@ -1,2 +1,2 @@
 ## Hello There!!
-[![Sayam's github stats](https://github-readme-stats.vercel.app/api?username=sayyss)](https://github.com/anuraghazra/github-readme-stats)
+[![Sayam's github stats](https://github-readme-stats.vercel.app/api?username=sayyss&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
